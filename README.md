@@ -11,18 +11,18 @@ many more numbers starting with "1."
 result:
 =======
 
-  /tmp/benford$ make
-  g++ -g -Wall -o benford -O1 benford.cpp
-  ./benford
-  [0] =        0
-  [1] =   246070
-  [2] =   171387
-  [3] =   137249
-  [4] =   112211
-  [5] =    96732
-  [6] =    81642
-  [7] =    65368
-  [8] =    53049
-  [9] =    36292
+    /tmp/benford$ make
+    g++ -g -Wall -o benford -O1 benford.cpp
+    ./benford
+    [0] =        0
+    [1] =   246070
+    [2] =   171387
+    [3] =   137249
+    [4] =   112211
+    [5] =    96732
+    [6] =    81642
+    [7] =    65368
+    [8] =    53049
+    [9] =    36292
 
 jwatte 20201013
